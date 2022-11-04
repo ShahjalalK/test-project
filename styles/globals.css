@@ -24,3 +24,25 @@ a {
     background: black;
   }
 }
+
+.cards{
+  display: grid; grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  grid-gap: 10px;
+}
+.card{
+  border: 1px solid #ddd; 
+  padding: 1.5rem;
+  border-radius: .5rem;
+  text-align: center;
+  
+  
+}
+.card a{
+  color: blueviolet;
+  border: 1px solid blueviolet;
+  padding: 5px 25px;
+  border-radius: 10px;
+  font-weight: bold;
+}
