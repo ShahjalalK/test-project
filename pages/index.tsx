@@ -26,6 +26,24 @@ export default function Home() {
           <Link href="http://www.facebook.com" target="_blank">Click Now</Link>
         </div>
 
+        <div className="card">
+          <h1>Hello Shahjalal</h1>
+          <p>my name is shahjalal</p>
+          <Link href="http://www.facebook.com" target="_blank">Click Now</Link>
+        </div>
+
+        <div className="card">
+          <h1>Hello Shahjalal</h1>
+          <p>my name is shahjalal</p>
+          <Link href="http://www.facebook.com" target="_blank">Click Now</Link>
+        </div>
+
+        <div className="card">
+          <h1>Hello Shahjalal</h1>
+          <p>my name is shahjalal</p>
+          <Link href="http://www.facebook.com" target="_blank">Click Now</Link>
+        </div>
+
        </div>
     
     </>
